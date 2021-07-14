@@ -14,7 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/socket.io": "^2.1.2",
-    "typescript": "^3.4.5"
+    "typescript": "^3.9.10"
   },
   "dependencies": {
     "exceljs": "^1.10.0"
